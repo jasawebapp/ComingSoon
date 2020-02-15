@@ -1,0 +1,27 @@
+{
+  "name": "LPSE Info",
+  "short_name": "LPSE",
+  "description": "Media Informasi E-Procurement atau LPSE Pemerintah dan Swasta",
+  "icons": [
+    {
+      "src": "/images/android-icon-144x144.png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/images/apple-icon-152x152.png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "/images/android-icon-192x192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icon512x512.png",
+      "sizes": "512x512"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/"
+}
